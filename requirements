@@ -1,0 +1,13 @@
+Requirements Analycis 
+-----------------------------------
+1. Start The API server 
+2. Create, Edit, Delete user
+3. Token based authentication
+4. Logout Nechanism 
+5. Set links & Up/Down 
+6. Edit/Delete links & rate limit
+7. Check up/down time
+
+Database system
+-------------------
+1. FileSystem 
